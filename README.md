@@ -24,7 +24,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+
+* Learning Kotlin syntax
+* Figuring out which functions needed to be implemented for the RecyclerView
+* Initializing an OnLongClickListener for the delete feature in the MainActivity then passing it to the adapter
 
 ## License
 
